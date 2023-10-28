@@ -1,0 +1,9 @@
+TransID	Acc#	TransactionDate		DueDate		Amount	Reason
+1	1	26-11-22 00:00:00	null	2000	Withdrawal
+2	1	26-11-22 00:00:00	null	2000	Withdrawal
+3	1	26-11-22 00:00:00	null	50000	Deposit
+4	1	26-11-22 00:00:00	2027-11-26 22:01:29	200000	Loan
+5	1	26-11-22 00:00:00	2027-11-26 22:11:27	200000	Loan
+6	1	26-11-22 00:00:00	null	4000	Withdrawal
+7	1	26-11-22 00:00:00	null	5000000	Deposit
+8	1	26-11-22 00:00:00	2027-11-26 22:28:13	200000	Loan
